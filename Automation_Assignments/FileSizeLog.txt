@@ -1,0 +1,21 @@
+File Path : /Users/swara/Desktop/Python/Python_Application
+File size in bytes: 5056
+Date and Time: 24-07-2026 12:25:30 AM 
+----------------------------------------
+File Path : /Users/swara/Desktop/Python/Python_Application
+File size in bytes: 5056
+Date and Time: 24-07-2026 12:26:00 AM 
+----------------------------------------
+File Path : /Users/swara/Desktop/Python/Python_Application
+File size in bytes: 5056
+Date and Time: 24-07-2026 12:26:30 AM 
+----------------------------------------
+File Path : /Users/swara/Desktop/Python/Python_Application
+File size in bytes: 5056
+Date and Time: 24-07-2026 12:27:00 AM 
+----------------------------------------
+File Path : /Users/swara/Desktop/Python/Python_Application
+File size in bytes: 5056
+Date and Time: 24-07-2026 12:27:30 AM 
+----------------------------------------
+
