@@ -1,2 +1,0 @@
-Python : Automation and Machine Learning 
-Angular : Web Development
